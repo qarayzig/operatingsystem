@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Wed, 17 Jun 2026 21:00:00 +0300
+Source: kds-hello
+Binary: kds-hello kds-hello-dbgsym
+Architecture: source amd64
+Version: 1.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Kapalbaev Dmitriy Sergeevich <kapalbaevds@example.com>
+Changed-By: Kapalbaev Dmitriy Sergeevich <kapalbaevds@example.com>
+Description:
+ kds-hello  - simple student test program
+Changes:
+ kds-hello (1.0) unstable; urgency=medium
+ .
+   * Initial release.
+Checksums-Sha1:
+ 1efd6adbb4410ac5291542c53cfa5d828932e5a9 533 kds-hello_1.0.dsc
+ 6f3b1b21bd8f8cf6dd0a270167b114698480d92e 1612 kds-hello_1.0.tar.xz
+ e0d3c39406efb99252b7ee26db49010c4cfc5bd0 2748 kds-hello-dbgsym_1.0_amd64.deb
+ 5c72a94ba9bb8d23146753b947e276c3de42c927 6716 kds-hello_1.0_amd64.buildinfo
+ 06420df30a7b3a7e822a516cd8cbc71405f858ca 3512 kds-hello_1.0_amd64.deb
+Checksums-Sha256:
+ f443e6767c40ee00536f873a6660d8515cb7a37f5e7b62b35630d9ea9c115db2 533 kds-hello_1.0.dsc
+ 4f878f60c30a5b90f899f363a763bdeed6cfcda5c6afb88fe0a89bfeff35c951 1612 kds-hello_1.0.tar.xz
+ 16c2c69c429d52d84ba0efa249fedccc5a9ec28c6a764f4e3042374119e6c205 2748 kds-hello-dbgsym_1.0_amd64.deb
+ 3dc35787703e324ecd52af204e0a86b309fc09722c5a475244da12b0ebc2d694 6716 kds-hello_1.0_amd64.buildinfo
+ 51757e54aed8bc1109a2df44bf43298efc31cfa43b8b5da2453e47ffc45136de 3512 kds-hello_1.0_amd64.deb
+Files:
+ 98b4bd1f068ed5eb9b6c9ad28680f286 533 utils optional kds-hello_1.0.dsc
+ 9651d3312774098ada693e5724735887 1612 utils optional kds-hello_1.0.tar.xz
+ 44dec5abe709121f6c969390d62e8f3b 2748 debug optional kds-hello-dbgsym_1.0_amd64.deb
+ e72cf13597111799ca9458ec5d635fd3 6716 utils optional kds-hello_1.0_amd64.buildinfo
+ fc5858dbec4cec8e04792ed955580b00 3512 utils optional kds-hello_1.0_amd64.deb
